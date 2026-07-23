@@ -50,4 +50,13 @@ secure-auth-flow-js/
 | PUT    | /api/user/profile    | Yes  | Update name                |
 | PUT    | /api/user/password   | Yes  | Change password            |
 
+
+ 🌐 Live Demo
+
+🔗 https://secure-auth-flow.onrender.com/
+
+ 💻 GitHub Repository
+
+🔗 https://github.com/sadafkazi127/secure-auth-flow-js
 Protected routes expect `Authorization: Bearer <token>`.
+
