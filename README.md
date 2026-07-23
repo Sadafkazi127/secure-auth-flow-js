@@ -3,8 +3,8 @@
 A plain-stack rebuild of the same auth flow: Register, Login, and a
 JWT-protected Dashboard (view profile, update name, change password).
 
-- **Backend:** Node.js + Express + Mongoose (MongoDB), plain JavaScript (no TypeScript)
-- **Frontend:** Plain HTML + vanilla JavaScript + Tailwind CSS (via CDN, no build step)
+- **Backend:** Node.js + Express + Mongoose (MongoDB), plain JavaScript
+- **Frontend:** Plain HTML + vanilla JavaScript + Tailwind CSS 
 - **Auth:** JWT bearer tokens, passwords hashed with bcrypt
 
 ## Project layout
