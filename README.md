@@ -60,8 +60,3 @@ secure-auth-flow-js/
 
 🔗 https://secure-auth-flow.onrender.com/
 
- 💻 GitHub Repository
-
-🔗 https://github.com/sadafkazi127/secure-auth-flow-js
-Protected routes expect `Authorization: Bearer <token>`.
-
