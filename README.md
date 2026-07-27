@@ -27,9 +27,18 @@ secure-auth-flow-js/
     └── js/
 ```
 ## Screenshot
+## Login Page
+
 ![SecureLogin](public/images/securelogin.png)
+
+## Registration Page
 ![SecureRegister](public/images/secureregister.png)
+## DashBoard
+
 ![SecureDashboard](public/images/secureprofile%20(2).png)
+## NoSQLDB
+
+![NoSQlDB](public/images/db.png)
 
 
 ## Setup
@@ -59,4 +68,7 @@ secure-auth-flow-js/
  🌐 Live Demo
 
 🔗 https://secure-auth-flow.onrender.com/
+
+ 
+
 
