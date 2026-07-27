@@ -1,4 +1,4 @@
-# Secure Auth Flow (JavaScript + MongoDB + HTML + Tailwind)
+# Secure Auth Flow 
 
 A plain-stack rebuild of the same auth flow: Register, Login, and a
 JWT-protected Dashboard (view profile, update name, change password).
