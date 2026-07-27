@@ -26,6 +26,11 @@ secure-auth-flow-js/
     ├── css/style.css
     └── js/
 ```
+## Screenshot
+![SecureLogin](public/images/securelogin.png)
+![SecureRegister](public/images/secureregister.png)
+![SecureDashboard](public/images/secureprofile%20(2).png)
+
 
 ## Setup
 
